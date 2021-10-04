@@ -78,7 +78,7 @@
             Tag="36"
             x:Name="grandeRadioButton_Copy"
             GroupName="Tamaño"
-            Content="Pequesño"
+            Content="Pequeño"
             HorizontalAlignment="Left"
             Margin="553,271,0,0"
             VerticalAlignment="Top"
